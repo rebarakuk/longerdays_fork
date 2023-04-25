@@ -1,0 +1,15 @@
+# @plugin LongerDays_fork
+# @version 1.0.4
+# @author biyu_bu
+# @original_mod_author foncused
+# @original_mod_site https://www.spigotmc.org/resources/longerdays.80610/
+
+# Day cycle in minutes
+day: 1
+
+# Night cycle in minutes
+night: 1
+
+# Worlds to enable
+worlds:
+  - "world"
