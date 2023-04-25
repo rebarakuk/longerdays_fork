@@ -1,0 +1,7 @@
+name: longerdays_fork
+version: 1.0.4
+main: me.longerdays_fork.Longerdays_fork
+author: biyu_bu
+original mod author: foncused
+original mod site: https://www.spigotmc.org/resources/longerdays.80610/
+softdepend: ['Multiverse-Core']
