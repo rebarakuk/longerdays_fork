@@ -1,0 +1,21 @@
+package me.longerdays_fork;
+
+import me.longerdays_fork.Longerdays_fork;
+import org.bukkit.World;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.Listener;
+import org.bukkit.event.world.WorldLoadEvent;
+
+public class WorldLoad implements Listener {
+
+    private final Longerdays_fork plugin;
+
+    public WorldLoad(final Longerdays_fork plugin) {
+        this.plugin = plugin;
+    }
+
+    @EventHandler
+    public void onWorldLoad(final WorldLoadEvent event) {
+        final World world = event.getWorld();
+    }
+}
