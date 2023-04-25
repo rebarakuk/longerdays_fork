@@ -6,3 +6,5 @@ I made it to adjust the plugin on every world
 
 Original plugin
 https://www.spigotmc.org/resources/longerdays.80610/
+
+- /gamerule doDayCycle false doesn't work. (I might fix it later)
